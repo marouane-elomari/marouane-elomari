@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Cloud and Infra
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with Deep Learning
+- 🌱 I’m currently working on AI Agents / Infra
+- 👯 I’m looking to collaborate on AI Projects
 - 💬 Ask me about Anythings!!
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/melomari/
 
